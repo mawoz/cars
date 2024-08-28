@@ -1,12 +1,14 @@
 name: "cars"
 output_dir: "docs"
 navbar:
-  title: "Cars"
+  title: "mawoz | Marc-André's GitHub Pages"
   left:
     - text: "Home"
       href: index.html
     - text: "Speed and Distance"
       href: speed-and-distance.html
+    - text: "PulsaR"
+      href: pulsar.html
 output:
   html_document:
     theme: cosmo
